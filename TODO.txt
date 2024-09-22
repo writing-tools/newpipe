@@ -1,2 +1,0 @@
-* FIlter newpipe by searched keyword.
-* Or: Don't display videos containing certain words in title or description.
