@@ -3,7 +3,7 @@ https://github.com/TeamNewPipe/NewPipe
 
 # TODO:
 - Filter newpipe by searched keyword.
-- Or: Don't display videos containing certain words in title or description.
+- Or: filter displayed video entries (don't display videos containing certain words in title or description).
 
 
 *****
