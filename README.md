@@ -5,6 +5,17 @@ https://github.com/TeamNewPipe/NewPipe
 - Filter newpipe by searched keyword.
 - Or: filter displayed video entries (don't display videos containing certain words in title or description).
 
+// Deploy apk (release):
+# To edit the app version, edit build.gradle inside app/
+Build -> Generate signed bundle/APKs -> APK -> create new key -> choose 'DefaultRelease'
+# then find the apk here:
+NewPipe/app/release/app-release.apk
+notepad2-markor/app/flavorDefault/release/net.elyahw.notepad2-v11-0.8-flavorDefault-release.apk
+personaldnsfilter/app/release/
+# or: (choose the build type from Build -> Select build variant)
+Build -> Build Bundle(s)/APK(s)->Build APK
+# find the apk here:
+snotepad/app/build/outputs/apk/debug/
 
 *****
 
